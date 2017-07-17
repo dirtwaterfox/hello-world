@@ -1,3 +1,4 @@
 # hello-world
-my first foray into GitHub
-i want to become proficient with GitHub
+My first foray into GitHub.
+I want to become proficient with GitHub.
+I think I now understand the basics.
