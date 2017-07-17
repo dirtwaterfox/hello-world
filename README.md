@@ -1,3 +1,4 @@
 # hello-world
-my first foray into GitHub
-only adding a new line in this edit
+My first foray into GitHub.
+I want to become proficient with GitHub.
+I think I now understand the basics.
